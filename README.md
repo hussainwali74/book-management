@@ -29,6 +29,6 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-### After installation proceed to http:localhost:3000/docs to access the api docs 
+#### After installation proceed to http://localhost:3000/docs to access the api docs 
 
 .env file included here just for completeness if this is to be used replace the values with your own values.
